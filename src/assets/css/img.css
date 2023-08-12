@@ -1,0 +1,20 @@
+.img1 {
+  
+    background-image: url('/frontend/src/img/Solu.gif');
+ 
+  }
+
+  .img2 {
+  
+    background-image: url('/frontend/src/img/image2.png');
+ 
+  }
+
+  .img3 {
+  
+    background-image: url('/frontend/src/img/image3.png');
+ 
+  }
+  .logo{
+    background-image: url('/frontend/src/img/logo.png');
+  }
